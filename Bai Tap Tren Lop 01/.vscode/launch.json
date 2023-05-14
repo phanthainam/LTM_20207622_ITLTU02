@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Study/Lap trinh mang/Bai Tap Tren Lop 01",
+      "program": "/Users/Study/Lap trinh mang/Bai Tap Tren Lop 01/build/Debug/outDebug"
+    }
+  ]
+}
